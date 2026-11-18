@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hollowbornsmppp.aternos.me",
-    "port": 36451,
+    "ip": "hollowbornsmppp.enderman.cloud",
+    "port": 30285,
     "version": "1.20.1",
     "try-creative": false
   },
