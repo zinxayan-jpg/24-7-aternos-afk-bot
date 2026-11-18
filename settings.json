@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "hollowbornsmppp.enderman.cloud",
-    "port": 30285,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
