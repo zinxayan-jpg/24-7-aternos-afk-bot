@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hollowbornsmppp.aternos.me",
+    "ip": "DimensionSmpS1.aternos.me",
     "port": 36451,
     "version": "1.20.1",
     "try-creative": false
