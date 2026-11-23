@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DimensionSmpS1.aternos.me",
-    "port": 36451,
+    "ip": "DimensionSMPS1.aternos.me",
+    "port": 63642,
     "version": "1.20.1",
     "try-creative": false
   },
